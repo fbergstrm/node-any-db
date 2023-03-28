@@ -25,8 +25,8 @@
   "license": "MIT",
   "dependencies": {
     "inherits": "~2.0.1",
-    "pg": "^7.4.3",
-    "pg-query-stream": "~0.2.0"
+    "pg": "^8.10.0",
+    "pg-query-stream": "~4.4.0"
   },
   "peerDependencies": {
     "any-db": "^2.1.0"
