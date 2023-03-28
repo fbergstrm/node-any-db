@@ -25,7 +25,10 @@
     "parse-db-url": "0.0.0",
     "inherits": "~2.0.1",
     "once": "~1.3.0",
-    "yafsm": "0.0.0"    
+    "yafsm": "0.0.0",
+    "inherits": "~2.0.1",
+    "pg": "^8.10.0",
+    "pg-query-stream": "~4.4.0"    
   },
   "devDependencies": {
     "any-db-fake": "0.0.1",
