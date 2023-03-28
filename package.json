@@ -22,7 +22,10 @@
   "license": "MIT",
   "dependencies": {
     "any-db-pool": "~2.3.0",
-    "parse-db-url": "0.0.0"
+    "parse-db-url": "0.0.0",
+    "inherits": "~2.0.1",
+    "once": "~1.3.0",
+    "yafsm": "0.0.0"    
   },
   "devDependencies": {
     "any-db-fake": "0.0.1",
